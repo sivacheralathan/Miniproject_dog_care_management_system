@@ -13,8 +13,8 @@ This is a simple Dog Care Website created using HTML and CSS. It provides inform
 
 ## How to Use
 
-*Clone the repository or obtain the required files.
-*git clone
-*Open the index.html file in a web browser.
-*Explore the Dog Care Website, learn about dog care, and browse popular dog breeds.
-*Fill out the inquiry form to submit your pet shopping and adoption request.
+1.Clone the repository or obtain the required files.
+2.git clone
+3.Open the index.html file in a web browser.
+4.Explore the Dog Care Website, learn about dog care, and browse popular dog breeds.
+5.Fill out the inquiry form to submit your pet shopping and adoption request.
